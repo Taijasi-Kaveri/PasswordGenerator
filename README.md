@@ -28,11 +28,11 @@ chmod +x password-generator.sh
 ## Options
 The script provides the following options:
 
-1.**Password Length**: You can specify the length of the generated password. The default length is 12 characters.
-2.**Include Uppercase Letters**: You can choose whether to include uppercase letters (A-Z) in the generated password.
-3.**Include Lowercase Letters**: You can choose whether to include lowercase letters (a-z) in the generated password.
-4.**Include Numbers**: You can choose whether to include numbers (0-9) in the generated password.
-5.**Include Special Characters**: You can choose whether to include special characters (!@#$%^&*()_+-=[]{}|;:'",.<>?/).
+1. **Password Length**: You can specify the length of the generated password. The default length is 12 characters.
+2. **Include Uppercase Letters**: You can choose whether to include uppercase letters (A-Z) in the generated password.
+3. **Include Lowercase Letters**: You can choose whether to include lowercase letters (a-z) in the generated password.
+4. **Include Numbers**: You can choose whether to include numbers (0-9) in the generated password.
+5. **Include Special Characters**: You can choose whether to include special characters (!@#$%^&*()_+-=[]{}|;:'",.<>?/).
 
 ## Demo
 ![ezgif com-crop(2)](https://github.com/Taijasi-Kaveri/PasswordGenerator/assets/52359546/feb576c8-1195-48e4-b822-9e9d52bb0861)
